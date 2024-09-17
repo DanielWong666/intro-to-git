@@ -30,7 +30,7 @@ Basic commands
    Local (your pc)<------------------->Remote (GitHub)
   - Once you have new files/folders, you have to add, commit and push to GitHub.
    'commit' basically means to create a 'save point' in your project history
-   - add .
-   - commit -m 'A meaningful message'
-   - push -u origin main
+   - git add .
+   - git commit -m 'A meaningful message'
+   - git push -u origin main
 
